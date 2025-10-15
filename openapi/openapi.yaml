@@ -12,11 +12,11 @@ info:
 servers:
   - url: https://api.figma.com
 externalDocs:
-  description: Figma REST API Documentation
+  description: TEST Figma REST API Documentation
   url: https://www.figma.com/developers/api
 tags:
   - name: Files
-    description: Get file JSON, images, and other file-related content.
+    description: TEST Get file JSON, images, and other file-related content.
     externalDocs:
       description: File endpoints documentation
       url: https://www.figma.com/developers/api#files
